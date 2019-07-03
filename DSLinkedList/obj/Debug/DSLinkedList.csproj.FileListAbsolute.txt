@@ -1,0 +1,7 @@
+C:\Users\adam\source\repos2\DSLinkedList\DSLinkedList\bin\Debug\DSLinkedList.exe.config
+C:\Users\adam\source\repos2\DSLinkedList\DSLinkedList\bin\Debug\DSLinkedList.exe
+C:\Users\adam\source\repos2\DSLinkedList\DSLinkedList\bin\Debug\DSLinkedList.pdb
+C:\Users\adam\source\repos2\DSLinkedList\DSLinkedList\obj\Debug\DSLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\adam\source\repos2\DSLinkedList\DSLinkedList\obj\Debug\DSLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\adam\source\repos2\DSLinkedList\DSLinkedList\obj\Debug\DSLinkedList.exe
+C:\Users\adam\source\repos2\DSLinkedList\DSLinkedList\obj\Debug\DSLinkedList.pdb
